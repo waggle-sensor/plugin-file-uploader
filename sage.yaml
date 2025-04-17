@@ -1,11 +1,11 @@
-name: ""
-description: ""
-keywords: ""
-authors: "Your Name <your.email@somewhere.org>"
+name: "file-uploader"
+description: "Upload files to Beehive"
+keywords: "file upload"
+authors: "Yongho Kim <yongho.kim@anl.gov>"
 collaborators: ""
 funding: ""
 license: ""
-homepage: "https://github.com/waggle-sensor/edge-app-template"
+homepage: "https://github.com/waggle-sensor/plugin-file-uploader"
 source:
   architectures:
     - "linux/amd64"

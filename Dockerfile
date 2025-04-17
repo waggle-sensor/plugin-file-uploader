@@ -9,7 +9,7 @@ COPY requirements.txt .
 RUN pip3 install --no-cache-dir -r requirements.txt
 
 # copy rest of our code
-COPY . .
+COPY main.py .
 
 # define how to run our code
 ENTRYPOINT ["python3", "main.py"]

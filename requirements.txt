@@ -1,1 +1,2 @@
-pywaggle[all]
+# Take pywaggle[audio] to minimize packages to be installed
+pywaggle[audio]==0.56.*
