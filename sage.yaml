@@ -1,5 +1,6 @@
 name: "file-uploader"
 description: "Upload files to Beehive"
+version: "0.0.1"
 keywords: "file upload"
 authors: "Yongho Kim <yongho.kim@anl.gov>"
 collaborators: ""
