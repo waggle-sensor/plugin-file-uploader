@@ -48,7 +48,7 @@ if __name__ == "__main__":
     parser.add_argument(
         "--file-pattern",
         type=str,
-        default="**/*.nc",
+        default="*.nc",
         help="File pattern to match."
     )
     parser.add_argument(
